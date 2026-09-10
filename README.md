@@ -2,7 +2,7 @@
 This project is a detailed analysis of Nigerian supermarket sales(a database imported from Kaggle).
 
 **ABOUT**
-An excel sheet designed to analyze sales trends and provide business insights and recommendations to enable supermarkets to make more profit and make decisions not just by the company but also by the customers to improve trust and the business.
+An Excel sheet designed to analyze sales trends and provide business insights and recommendations that help supermarkets increase profit and support decisions by both the company and customers, improving trust and the business.
 
 **FEATURES**
 1. Sales Database
@@ -20,6 +20,6 @@ An excel sheet designed to analyze sales trends and provide business insights an
 
 **PROJECT STRUCTURE**
 Nigeria supermarket sales
-|
-|── Nigeria supermarket sales dashboard
+|──Nigeria supermarket sales
+|  |── Nigeria supermarket sales dashboard
 |__README.md
